@@ -56,6 +56,6 @@ And again, info last kernel version
 
 DONE :+1:
 
-Reference Blog Post:
+Reference Youtube Video:
 
 [![Everything Is AWESOME](https://i.ytimg.com/vi/bSS7oJ7n6f0/hqdefault.jpg)](https://www.youtube.com/embed/bSS7oJ7n6f0 "Everything Is AWESOME")
